@@ -10,3 +10,6 @@
 - Logan Lerman as Percy Jackson, the demigod son of Poseidon.
 - Brandon T. Jackson as Grover Underwood, Percy's best friend and protector, a satyr, and Persephone's love interest.
 - Alexandra Daddario as Annabeth Chase, the demigod daughter of Athena, and Percy's romantic foil.
+
+# Overview
+> At the Empire State Building's summit, Zeus accuses Percy Jackson, unaware of his demigod identity, of stealing his lightning bolt. Percy, a dyslexic and ADHD-struggling teenager with unique underwater abilities, learns he's Poseidon's son. After his mother is seemingly killed by the Minotaur, Percy discovers his demigod powers at Camp Half-Blood. Informed that the lightning bolt is in the Underworld, Percy, along with Grover and Annabeth, embarks on a quest for pearls to navigate there. In the Underworld, Hades is revealed as the lightning thief, but Luke, aiming to overthrow the gods, steals the bolt. Percy, with the help of allies, defeats Luke, returns the bolt, and reconciles with his father at Camp Half-Blood.
